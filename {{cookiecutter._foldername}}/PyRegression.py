@@ -1,5 +1,5 @@
 '''
-Hello, {{cookiecutter.your_name}}! Welcome to {{cookiecutter.event}}.
+Hello, {{cookiecutter.Your_Name}}! Welcome to {{cookiecutter.Event}}.
 Let's get started with your challenge!
 '''
 
